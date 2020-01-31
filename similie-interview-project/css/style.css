@@ -1,0 +1,208 @@
+/*
+body, html {
+  height: 100%;
+  
+}
+
+body{ 
+	font: 14px sans-serif; 
+	}
+.wrapper{
+ 	width: 350px; padding: 20px; 
+}
+
+.bg1 {
+  /* The image used 
+  background-image: url("../images/1.jpg");
+
+  /* Full height 
+  height: 75%;
+
+  /* Center and scale the image nicely 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 30px 30px 30px 30px;
+  border: 1px solid red;
+}
+.bg2 {
+  /* The image used 
+  background-image: url("../images/1.jpg");
+
+  /* Full height 
+  height: 120%;
+
+  /* Center and scale the image nicely 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 30px 30px 30px 30px;
+  border: 1px solid red;
+}
+.red{
+	color: red;
+	font-weight: bold;
+}
+.green{
+	color: green;
+	font-weight: bold;
+}
+.para{
+	color: #000000;
+	font-weight: bold;
+	font-size: 15px;
+}
+*/
+nav{
+  margin-top: -10px;
+ margin-left: -5%;
+
+}
+nav a{
+  color: #fff;
+  font-size: 20px;
+}
+
+a{
+
+  padding: 5px;
+  line-height: 2;
+  text-transform: uppercase;
+ font-weight: bold;
+}
+a:hover {
+  color: #00A0DC !important;
+ border-bottom: 1px solid red;
+  padding: 5px;
+  text-decoration: none;
+
+}
+
+body{
+  background-color:azure;
+  
+}
+
+.align-items-center{
+  background-color: #828C85;
+  margin-top: 5%;
+  border: 30px dashed black;
+  border-radius: 30px 30px 30px 30px;
+  border-bottom: 30px solid;
+  border-top: 30px solid;
+
+}
+
+.para{
+  text-align: center;
+  color: white;
+  margin-top: 7px;
+}
+.green{
+  color: green;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+.red{
+  color: red;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  background-color: #fff;
+}
+
+table th {
+  font-size: 16px;
+  width: 100%;
+}
+label{
+  font-size: 20px;
+  width: 300px;
+}
+.img-border{
+  border: 3px solid;
+}
+a.hover{
+  color: green;
+
+}
+.profile{
+  border-bottom: 5px solid darkred;
+  background: #0B5345;
+ 
+}
+.rounded-circl{
+  border: 3px solid #0B5345;
+}
+.side-menu{
+  border-left: 2px solid #0B5345;
+  margin-top: 20px;
+}
+.side-menu-2, a{
+  color: #0B5345;
+  margin-top: 20px;
+}
+.side-menu a{
+  color: #0B5345;
+}
+.side-menu a:hover{
+  border-bottom: 2px solid darkred;
+  color: darkred !important;
+}
+.upload{
+  margin-left: 20%;
+  margin-bottom: 10px;
+}
+.custom-btn{
+  border-radius: 50px 50px 50px 50px;
+}
+.custom-btn, .file{
+  margin-top: 4px;
+}
+.profile-reduce label{
+  margin-top: 20px;
+}
+.custom-btn, .profile-sub, .table-dark{
+  background: #0B5345;
+}
+.custom-btn:hover{
+  background: darkred;
+}
+hr{
+  height: 2px;
+  background-color: #0B5345;
+}
+.logout{
+  float: right;
+  clear: both;
+  margin-right: 10px;
+  margin-top: -25px;
+}
+.top-btn{
+  float: right;
+  clear: both;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  box-shadow: #828C85;
+}
+.profile-sub{
+  margin-top: 60px;
+  height: 50px;
+  padding-top: 10px;
+}
+.margin-top{
+  margin-bottom: 30px;
+}
+.img-border{
+  border: 2px solid #0B5345;
+}
+.white{
+  color: white;
+}
+
+
+
+
+
+
