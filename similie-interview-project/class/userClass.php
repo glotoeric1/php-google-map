@@ -3,8 +3,8 @@
     //assigning database variable values;
     Private $server_name="127.0.0.1";
     Private $server_user="root";
-    Private $server_pass="DDee@2022@DD";
-    Private $server_db="similie_db";
+    Private $server_pass="your_database_password";
+    Private $server_db="your_database_name";
     protected $connector;
 
     //db connect constructor for animal class
